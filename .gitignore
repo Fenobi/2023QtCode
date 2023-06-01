@@ -25,3 +25,4 @@ TestResults.xml
 *.release
 *.stash
 *.o
+*.user
